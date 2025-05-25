@@ -35,6 +35,19 @@ Il accompagnera également ma montée en compétences à l'**École 2600 (2025�
 - [🤝 Contribuer / Contact](#-contribuer--contact)
 
 ---
+## 🧠 Roadmap de progression – Cyber GRD
+
+- [x] 🛡️ Blue Team – Wireshark, Nmap, Logs, Fail2Ban, UFW, Durcissement PHP
+- [x] ⚔️ Red Team – XSS, LFI, File Upload, Reverse Shell, Brute Force (Hydra)
+- [x] ⚙️ Tools – Metasploit, Gobuster, Searchsploit, Netcat, Burp Suite
+- [x] 🧪 Scénarios DVWA – Captures HTTP, escalade de privilège, défenses en live
+- [x] 📚 Documentation – Markdown, PDF, GitHub, Obsidian
+- [ ] 📱 Pentest Android – APK, msfvenom, payloads, apktool, reverse shell mobile
+- [ ]  iOS Contournements – TrollStore, Serotonin, captive portal, test WebView
+- [ ] 🧠 Forensic – Analyse logs, timeline, chaînes d’attaque, outils Blue Team
+- [ ] 🕵🏽 OSINT & CTI – TheHarvester, Maltego, Sherlock, analyse de leaks
+- [ ] 🐍 Offensive Python – Scripts de scan, exploit automation, bots, C2
+- [ ] 🔐 CTFs & Labs – Root-Me, HackTheBox, TryHackMe, challenges
 
 ## 🔰 Introduction à la cybersécurité
 
