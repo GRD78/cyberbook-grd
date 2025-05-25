@@ -1,7 +1,16 @@
 <p align="center">
   <img src="images/cyber-grd-banner.png" alt="CYBER GRD Banner" width="700"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-En%20cours%20d'évolution-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cyber-Offensive%20%26%20Defensive-blue?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/github/last-commit/GRD78/cyberbook-grd?style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/GRD78/cyberbook-grd?style=for-the-badge">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GRD78&show_icons=true&theme=dark" />
+</p>
 # 📘 Livre de Cybersécurité – GRD78
 
 ![Cyber Security](https://img.shields.io/badge/Cyber-Offensive%20%26%20Defensive-blue?style=flat-square&logo=linux)
