@@ -14,6 +14,7 @@ Je partage ici tout mon apprentissage en cybersécurité offensive et défensive
 | [🧠 Roadmap](./roadmap.md) | Suivi de ma progression cyber |
 | [🛠️ Outils](./tools.md) | Liste de tous les outils utilisés |
 | [🎯 Scénarios & CTF](./challenges.md) | Mes exercices, défis, et scénarios DVWA |
+| [📬 Contact Pro](./contact.md) | Mon LinkedIn, e-mail et informations professionnelles |
 
 ---
 
@@ -30,7 +31,7 @@ Je partage ici tout mon apprentissage en cybersécurité offensive et défensive
 
 🎓 Étudiant en cybersécurité (École 2600)  
 🧰 Hacker éthique passionné (Red & Blue Team)  
-📬 Contact : [tonmail@pro.com](mailto:tonmail@pro.com)
+📬 Contact : [Mamadou.konate@ecole2600.com](mailto:Mamadou.konate@ecole2600.com)
 
 ---
 
