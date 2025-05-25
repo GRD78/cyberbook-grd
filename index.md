@@ -42,4 +42,16 @@ Je partage ici tout mon apprentissage en cybersécurité offensive et défensive
 
 ---
 
+<p align="center">
+  🛡️ Ce site est maintenu par <strong>GRD</strong> • 🇫🇷 • Dernière mise à jour : 2025  
+  <br/>
+  🔗 <a href="https://github.com/GRD78/cyberbook-grd">Voir sur GitHub</a> |
+  <a href="./contact.md">Contact pro</a> |
+  <a href="./roadmap.md">Ma progression</a>
+</p>
+
+
+
+
+
 > 🛡️ Site mis à jour régulièrement avec de nouveaux outils, exercices, scripts et savoirs cyber.
