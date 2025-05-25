@@ -15,3 +15,13 @@
 ## À venir
 - Analyse malware .apk
 - Scénario complet d’attaque + défense live
+
+ ---
+
+<p align="center">
+  🛡️ Ce site est maintenu par <strong>GRD</strong> • 🇫🇷 • Dernière mise à jour : 2025  
+  <br/>
+  🔗 <a href="https://github.com/GRD78/cyberbook-grd">Voir sur GitHub</a> |
+  <a href="./contact.md">Contact pro</a> |
+  <a href="./roadmap.md">Ma progression</a>
+</p>
