@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./images/grimoire-banner.png" alt="Grimoire Cyber GRD" width="1000"/>
+</p>
+
+
 <link rel="icon" type="image/png" href="./favicon.ico">
 
 # 📘 Bienvenue sur mon Livre de Cybersécurité GRD78
