@@ -31,7 +31,17 @@ Si vous souhaitez en savoir plus sur mon parcours, collaborer ou me proposer une
 - Participation à des CTF ou événements cybersécurité
 - Mentorat / transmission / partage de savoir
 
+
 ---
+
+<p align="center">
+  🛡️ Ce site est maintenu par <strong>GRD</strong> • 🇫🇷 • Dernière mise à jour : 2025  
+  <br/>
+  🔗 <a href="https://github.com/GRD78/cyberbook-grd">Voir sur GitHub</a> |
+  <a href="./contact.md">Contact pro</a> |
+  <a href="./roadmap.md">Ma progression</a>
+</p>
+
 
 > Merci pour votre visite sur mon site !  
 > Vous pouvez également me laisser une ⭐ sur [mon dépôt GitHub](https://github.com/GRD78/cyberbook-grd) si ce projet vous a été utile 🙏
