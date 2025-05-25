@@ -17,7 +17,7 @@ Voici ma feuille de route personnelle en cybersécurité : offensive, défensive
 - [ ] Forensic – logs, timeline, artefacts Linux/Windows
 - [ ] OSINT – Sherlock, TheHarvester, Maltego
 
-- [ ] ---
+
 
 <p align="center">
   🛡️ Ce site est maintenu par <strong>GRD</strong> • 🇫🇷 • Dernière mise à jour : 2025  
