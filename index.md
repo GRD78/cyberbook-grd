@@ -27,7 +27,7 @@ Ce site GitHub Pages rassemble toutes mes connaissances et pratiques, construite
 
 🎓 Étudiant en cybersécurité (École 2600)  
 🛠️ Passionné par la cyber offensive & défensive  
-📬 Contact : [tonmail@pro.com](mailto:tonmail@pro.com)
+📬 Contact : [tonmail@pro.com](mamadou.konate@ecole2600.com)
 
 ---
 
