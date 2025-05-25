@@ -1,3 +1,5 @@
+<link rel="icon" type="image/png" href="./favicon.ico">
+
 # 📘 Bienvenue sur mon Livre de Cybersécurité GRD78
 
 Bienvenue dans la version en ligne de mon grimoire personnel.  
