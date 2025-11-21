@@ -11,12 +11,11 @@ Voici ma feuille de route personnelle en cybersécurité : offensive, défensive
 
 ## 🚀 Prochaines étapes
 
+- [x] Offensive Python – Porting de scripts (2to3), gestion des venv & dépendances legacy
 - [ ] Pentest Android – Payloads APK, apktool, reverse shell
 - [ ] iOS Contournements – WebView, captive portal, TrollStore
-- [ ] Offensive Python – automation, exploit scripting
 - [ ] Forensic – logs, timeline, artefacts Linux/Windows
 - [ ] OSINT – Sherlock, TheHarvester, Maltego
-
 
 
 <p align="center">
