@@ -597,7 +597,26 @@ D. Scanner les ports
 1. **C**  
 2. **C**  
 3. **B**
+## 5.9 – Scénario 6 : Maintenance d'Exploit (Le "Dependency Hell")
 
+### Contexte :
+Lors d'un pentest, on trouve une vulnérabilité ancienne (ex: OpenSSH < 7.7). L'exploit disponible sur Exploit-DB est écrit en Python 2 (obsolète) et ne fonctionne pas sur un Kali/Parrot moderne (Python 3.11+).
+
+### Problèmes rencontrés :
+1. **Syntaxe invalide** : `print "texte"` (Python 2) vs `print("texte")` (Python 3).
+2. **Indentation** : Mélange de tabulations et d'espaces (TabError).
+3. **Dépendances cassées** : Les librairies modernes (ex: `paramiko`) ont corrigé la faille ou changé leur API.
+
+### Solution Technique (Workflow de réparation) :
+
+#### Étape 1 : Conversion du code
+Utiliser des outils automatiques pour la syntaxe :
+```bash
+# Convertir la syntaxe de base
+2to3 -w exploit.py
+
+# Remplacer brutalement les tabulations par 4 espaces
+sed -i 's/\t/    /g' exploit.py
 
 
 # Partie 6 – Environnements & Bonnes Pratiques
